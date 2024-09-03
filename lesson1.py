@@ -28,3 +28,7 @@ print("My favorite food is",food)
 #print("You are", age, "years old")
 favorite_animal = input("What is your favorite animal?")
 print("You favorite animal is a" , favorite_animal)
+
+
+
+#lets do some practice 
